@@ -1,4 +1,4 @@
-# bookshop-go
+# bookshop-js
 
 A simple book store API in need of input validation/sanitization.
 
