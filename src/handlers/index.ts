@@ -1,17 +1,17 @@
 export {
     createBook,
     getPrice,
-} from './books';
+} from "./books";
 
 export {
     createCustomer,
     updateCustomerAddress,
     getCustomerBalance,
-} from './customers';
+} from "./customers";
 
 export {
     createOrder,
     shipOrder,
     getOrderStatus,
     getShipmentStatus,
-} from './orders';
+} from "./orders";

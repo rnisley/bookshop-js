@@ -1,21 +1,17 @@
-export {
-    createBook,
-    getBookId,
-    getBookPrice,
-} from './books';
+export { createBook, getBookId, getBookPrice } from "./books";
 
 export {
-    createCustomer,
-    getCustomerId,
-    getCustomerAddress,
-    updateCustomerAddress,
-    customerBalance,
-    chargeCustomerForPO,
-} from './customers';
+  createCustomer,
+  getCustomerId,
+  getCustomerAddress,
+  updateCustomerAddress,
+  customerBalance,
+  chargeCustomerForPO,
+} from "./customers";
 
 export {
-    createPurchaseOrder,
-    getPOIdByContents,
-    isPoShipped,
-    shipPo,
-} from './purchaseOrders';
+  createPurchaseOrder,
+  getPOIdByContents,
+  isPoShipped,
+  shipPo,
+} from "./purchaseOrders";
